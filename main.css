@@ -190,7 +190,7 @@ input[type=text]:active,
 input[type=text]:focus,
 input[type=password]:active,
 input[type=password]:focus {
-    color: white;
+    outline: none;
 }
 
 input[type=submit]:hover,
