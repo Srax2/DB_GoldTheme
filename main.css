@@ -382,9 +382,11 @@ ul.thin li {
 
 #searchbars {
     position: absolute;
-    top: 190px;
+    top: 185px;
     left: 50%;
     transform: translate(-50%);
+    margin-top: 4px;
+    margin-bottom: 4pxM
 }
 
 #searchbars input {
@@ -392,6 +394,7 @@ ul.thin li {
     padding: 2px 2px 2px 2px;
     text-align: center;
     border: 1px solid #937341;
+    color: #c4b998;
 }
 
 /*#searchbars ul { //Lets remove this
