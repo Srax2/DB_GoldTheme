@@ -81,10 +81,13 @@ a {
 
 a:hover {
     text-decoration: none;
-    color: white;
+    color: #f3e6bf;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
     margin: 5px 0px;
     color: #c4b998;
     font-weight: bold;
@@ -489,7 +492,7 @@ ul.thin li {
 }
 
 .alertbar a:hover font {
-    color: white;
+    color: #f3e6bf;
 }
 
 .alertbar font[color=green] {
