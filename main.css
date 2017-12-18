@@ -1571,7 +1571,7 @@ tr.unreadpm {
     margin: 0;
     padding: 0;
     /* Make sure text is readable when it overlaps the header on small resolutions */
-    background: #202020;
+    background: #1a1a1a;
 }
 
 #userinfo li {
