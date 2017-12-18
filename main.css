@@ -77,11 +77,13 @@ a {
     text-decoration: none;
     border: none;
     color: #c4b998;
+    transition: color 0.2s ease;
 }
 
 a:hover {
     text-decoration: none;
     color: #f3e6bf;
+    transition: color 0.2s ease;
 }
 
 h1,
@@ -276,6 +278,11 @@ ul.thin li {
     width: 100%;
     text-align: center;
     padding: 1em 0;
+}
+
+#footer:after {
+    content: "Theme by Srax. /A Check it out here: https://github.com/Srax/DanishBitsCSS";
+    white-space: pre;
 }
 
 #logo {
