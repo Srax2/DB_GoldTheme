@@ -307,8 +307,8 @@ ul.thin li {
     top: 136px;
     padding: 0.0em 0;
     font: 14px/40px Tahoma, Verdana, sans-serif;
-    
-    box-shadow: 0 0 20px 10px rgba(0,0,0,.4);
+
+    box-shadow: 0 0 20px 10px rgba(0, 0, 0, .4);
     border-top: 1px solid #937341;
     border-bottom: 1px solid #937341;
 }
@@ -325,12 +325,12 @@ ul.thin li {
 }
 
 #menu ul li a {
-    color: #937341;
+    color: #c4b998;
     text-shadow: 1px 1px 0 #000;
 }
 
 #menu ul li a:hover {
-    color: #0087dc;
+    color: #937341;
     text-decoration: none;
 }
 
