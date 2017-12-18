@@ -84,10 +84,7 @@ a:hover {
     color: white;
 }
 
-h1,
-h2,
-h3,
-h4 {
+h1, h2, h3, h4 {
     margin: 5px 0px;
     color: #c4b998;
     font-weight: bold;
@@ -382,7 +379,7 @@ ul.thin li {
 
 #searchbars {
     position: absolute;
-    top: 185px;
+    top: 190px;
     left: 50%;
     transform: translate(-50%);
 }
@@ -406,8 +403,6 @@ ul.thin li {
     /*margin: 0px 1px;*/
     list-style: none;
     position: relative;
-    margin-top: 4px;
-    margin-bottom: 4pxM
 }
 
 #searchbars ul li ul {
