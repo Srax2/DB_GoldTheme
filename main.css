@@ -89,7 +89,7 @@ h2,
 h3,
 h4 {
     margin: 5px 0px;
-    color: white;
+    color: #c4b998;
     font-weight: bold;
 }
 
@@ -385,8 +385,6 @@ ul.thin li {
     top: 185px;
     left: 50%;
     transform: translate(-50%);
-    margin-top: 4px;
-    margin-bottom: 4pxM
 }
 
 #searchbars input {
@@ -408,6 +406,8 @@ ul.thin li {
     /*margin: 0px 1px;*/
     list-style: none;
     position: relative;
+    margin-top: 4px;
+    margin-bottom: 4pxM
 }
 
 #searchbars ul li ul {
