@@ -264,8 +264,8 @@ ul.thin li {
 }
 
 #content {
-    border-top: 1px solid #2f2f2f;
-    margin-top: 43px;
+    /*border-top: 1px solid #2f2f2f;*/
+    margin-top: 90px;
     width: 100%;
     min-width: 1000px;
     overflow: hidden;
@@ -333,7 +333,7 @@ ul.thin li {
 #menu ul li a:hover {
     color: #937341;
     text-decoration: none;
-    
+
 }
 
 /*
@@ -382,10 +382,9 @@ ul.thin li {
 
 #searchbars {
     position: absolute;
-    top: 144px;
-    text-align: center;
-    right: 10px;
-    padding: 4px 0px;
+    top: 190px;
+    left: 50%;
+    transform: translate(-50%);
 }
 
 #searchbars input {
@@ -394,15 +393,15 @@ ul.thin li {
     font-size: 0.9em;
 }
 
-#searchbars ul {
+/*#searchbars ul { //Lets remove this
     margin: 0 auto;
     display: block;
     text-align: center;
-}
+}*/
 
 #searchbars ul li {
     display: inline;
-    margin: 0px 1px;
+    /*margin: 0px 1px;*/
     list-style: none;
     position: relative;
 }
