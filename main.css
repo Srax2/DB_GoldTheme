@@ -313,10 +313,10 @@ ul.thin li {
     border-bottom: 1px solid #937341;
 }
 
-#menu ul {
+/*#menu ul { //Let's remove this
     float: left;
     margin-left: 10px;
-}
+}*/
 
 #menu ul li {
     position: relative;
@@ -333,7 +333,7 @@ ul.thin li {
 #menu ul li a:hover {
     color: #937341;
     text-decoration: none;
-    transition: color 0.2s ease;
+    
 }
 
 /*
