@@ -223,7 +223,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #menu {
 	display: block;
-	background: #222222;
+    background: #101217;
 	position: absolute;
 	overflow:hidden;
 	text-align: center;
@@ -232,14 +232,15 @@ ul.thin li { margin:0px 0px; padding:0px; }
 	top: 136px;
 	padding: 0.0em 0;
 	font: 14px/40px Tahoma, Verdana, sans-serif;
-	border-top: 1px solid #2f2f2f;
-	border-bottom: 1px solid #151515;
+    border-top: 1px solid #937341;
+    border-bottom: 1px solid #937341;
 }
 
 #menu ul {
 	float: left;
 	margin-left: 10px;
 }
+
 
 #menu ul li {
 	position: relative;
@@ -248,7 +249,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 }
 
 #menu ul li a {
-	color: #afafaf;
+	color: #937341;
 	text-shadow: 1px 1px 0 #000;
 }
 
