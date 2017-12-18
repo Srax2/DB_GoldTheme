@@ -321,13 +321,14 @@ ul.thin li {
 #menu ul li {
     position: relative;
     display: inline;
-    margin: 5px 8px;
+    /*margin: 5px 8px;*/
 }
 
 #menu ul li a {
     color: #c4b998;
     text-shadow: 1px 1px 0 #000;
     transition: color 0.2s ease;
+    text-transform: uppercase;
 }
 
 #menu ul li a:hover {
