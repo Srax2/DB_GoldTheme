@@ -641,7 +641,7 @@ p.min_padding {
 }
 
 .head {
-    padding: 4px;
+    padding: 6px;
 }
 
 .cattop {
@@ -1545,13 +1545,13 @@ tr.unreadpm {
 
 .center_poll {
     background: #fc4c00;
-    background: -moz-linear-gradient(top, #009dff 0%, #009dff 50%, #027fce 51%, #009dff 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #009dff), color-stop(50%, #009dff), color-stop(51%, #027fce), color-stop(100%, #009dff));
-    background: -webkit-linear-gradient(top, #009dff 0%, #009dff 50%, #027fce 51%, #009dff 100%);
-    background: -o-linear-gradient(top, #009dff 0%, #009dff 50%, #027fce 51%, #009dff 100%);
-    background: -ms-linear-gradient(top, #009dff 0%, #009dff 50%, #027fce 51%, #009dff 100%);
-    background: linear-gradient(to bottom, #009dff 0%, #009dff 50%, #027fce 51%, #009dff 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009dff', endColorstr='#009dff', GradientType=0);
+    background: -moz-linear-gradient(top, #9e9475 0%, #c4b998 50%, #c4b998 51%, #9e9475 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #9e9475), color-stop(50%, #c4b998), color-stop(51%, #c4b998), color-stop(100%, #9e9475));
+    background: -webkit-linear-gradient(top, #9e9475 0%, #c4b998 50%, #c4b998 51%, #9e9475 100%);
+    background: -o-linear-gradient(top, #9e9475 0%, #c4b998 50%, #c4b998 51%, #9e9475 100%);
+    background: -ms-linear-gradient(top, #9e9475 0%, #c4b998 50%, #c4b998 51%, #9e9475 100%);
+    background: linear-gradient(to bottom, #9e9475 0%, #c4b998 50%, #c4b998 51%, #9e9475 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c4b998', endColorstr='#9e9475', GradientType=0);
     border-radius: 2px;
     box-shadow: 0 0 1px #111;
 }
