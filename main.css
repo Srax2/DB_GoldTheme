@@ -389,8 +389,9 @@ ul.thin li {
 
 #searchbars input {
     position: relative;
-    padding: 2px 2px 2px 4px;
-    font-size: 0.9em;
+    padding: 2px 2px 2px 2px;
+    text-align: center;
+    border: 1px solid #937341;
 }
 
 /*#searchbars ul { //Lets remove this
