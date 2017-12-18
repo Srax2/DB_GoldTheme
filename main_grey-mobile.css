@@ -1,0 +1,18 @@
+@import 'main_grey.css';
+
+#linktorrent {
+  display: none !important;
+}
+
+#lolgo {
+   max-width: 100%;
+   max-height: 100%;
+}
+
+#menu > ul {
+}
+
+input[id="disablesticky"]:checked ~ #menu > ul {
+  display: none;
+}
+
