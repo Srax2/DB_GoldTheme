@@ -281,8 +281,9 @@ ul.thin li {
 }
 
 #footer:after {
-    content: "Theme by Srax. /A Check it out here: https://github.com/Srax/DanishBitsCSS";
+    content: "Theme by Srax. \ACheck it out here: https://github.com/Srax/DanishBitsCSS";
     white-space: pre;
+    
 }
 
 #logo {
@@ -1783,10 +1784,12 @@ tr.unreadpm {
 
 #nav_donate > a > span {
     color: #e6d6bc !important;
+    transform: color 0.2s ease;
 }
 
 #nav_donate > a:hover > span {
     color: #937341 !important;
+    transform: color 0.2s ease;
 }
 
 /* Forums layout */
