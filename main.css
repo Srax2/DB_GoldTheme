@@ -1764,7 +1764,7 @@ tr.unreadpm {
 }
 
 #userinfo a:hover {
-    color: white;
+    color: #f3e6bf;
 }
 
 #nav_donate font {
@@ -1773,6 +1773,10 @@ tr.unreadpm {
 
 #nav_donate a:hover font {
     color: white !important;
+}
+
+#nav_donate > a > span {
+    color: #e6d6bc !important;
 }
 
 /* Forums layout */
