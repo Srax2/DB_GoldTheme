@@ -1789,7 +1789,7 @@ tr.unreadpm {
 
 #nav_donate > a:hover > span {
     color: #937341 !important;
-    transform: color 0.2s ease;
+    transition: color 0.2s ease;
 }
 
 /* Forums layout */
