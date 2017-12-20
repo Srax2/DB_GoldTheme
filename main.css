@@ -1506,14 +1506,14 @@ td.label {
 .last_read {
     width: 12px;
     height: 12px;
-    background: url('icons.png') 0px -12px;
+    background: url('images/icons.png') 0px -12px;
     margin-left: 5px;
 }
 
 .last_readny {
     width: 12px;
     height: 12px;
-    background: url('icons.png') 0px -12px;
+    background: url('images/icons.png') 0px -12px;
     margin-left: 6px;
     margin-top: 3px;
 }
@@ -1629,7 +1629,7 @@ tr.unreadpm {
     overflow: hidden;
     width: 12px;
     height: 12px;
-    background: url('icons.png') -48px 0;
+    background: url('images/icons.png') -48px 0;
     margin: 0;
     position: relative;
     right: 14px;
@@ -1811,7 +1811,7 @@ tr.unreadpm {
 }
 
 #forums span.forumicon {
-    background-image: url('icons.png');
+    background-image: url('images/icons.png');
     width: 12px;
     height: 12px;
     display: block;
