@@ -283,7 +283,7 @@ ul.thin li {
 #footer:after {
     content: "Theme by Srax. \A Check it out here: https://github.com/Srax/DanishBitsCSS";
     white-space: pre;
-    
+
 }
 
 #logo {
@@ -752,7 +752,7 @@ td.colhead,
     white-space: nowrap;
     width: auto;
     text-align: center;
-    background: #262626;
+    background: #222222;
 }
 
 .colheadmenu a:hover {
@@ -1386,7 +1386,7 @@ span.powerleech {
 
 table {
     border-collapse: collapse;
-    border: 1px solid #101010;
+    border: 1px solid #937341;
     border-radius: 4px;
 }
 
@@ -1718,7 +1718,7 @@ tr.unreadpm {
 }
 
 #stats_ratio {
-    
+
     border-left: 1px dashed #3a3a3a;
     padding-left: 10px;
     margin-left: 10px !important;
