@@ -1386,7 +1386,7 @@ span.powerleech {
 
 table {
     border-collapse: collapse;
-    border: 1px solid #937341;
+    /*border: 1px solid #937341;*/
     border-radius: 4px;
 }
 
