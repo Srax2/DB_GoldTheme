@@ -1705,7 +1705,7 @@ tr.unreadpm {
 }
 
 #stats_seeding {
-    background: url(/icons/seedingIcon.png);
+    background: url(icons/seedingIcon.png);
 }
 
 #stats_seeding .stat {
@@ -1721,7 +1721,7 @@ tr.unreadpm {
 }
 
 #stats_leeching {
-    background: url(/icons/leechingIcon.png);
+    background: url(icons/leechingIcon.png);
 }
 
 #stats_ratio {
@@ -1737,7 +1737,7 @@ tr.unreadpm {
     text-indent: 101%;
     display: block;
     float: left;
-    background: url('/icons/ratioIcon.png');
+    background: url('icons/ratioIcon.png');
     width: 12px;
     height: 12px;
     position: relative;
