@@ -1702,7 +1702,7 @@ tr.unreadpm {
 
 #stats_seeding.user_stat_pics {
     background-position: -12px 0;
-    background: url(icons/seedingIcon.png);
+    background: url('icons/seedingIcon.png');
 }
 
 #stats_seeding .stat {
@@ -1715,7 +1715,7 @@ tr.unreadpm {
 
 #stats_leeching.user_stat_pics {
     background-position: -24px 0;
-    background: url(icons/leechingIcon.png);
+    background: url('icons/leechingIcon.png');
 }
 
 #stats_ratio {
