@@ -1785,7 +1785,7 @@ tr.unreadpm {
 
 #nav_donate > a > span {
     color: #e6d6bc !important;
-    transform: color 0.2s ease;
+    transition: color 0.2s ease;
 }
 
 #nav_donate > a:hover > span {
