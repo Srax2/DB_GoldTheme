@@ -1698,11 +1698,11 @@ tr.unreadpm {
     float: left;
     width: 12px;
     height: 12px;
+    background: url('images/icons.png');
 }
 
 #stats_seeding.user_stat_pics {
     background-position: -12px 0;
-    background: url('icons/seedingIcon.png');
 }
 
 #stats_seeding .stat {
@@ -1715,7 +1715,6 @@ tr.unreadpm {
 
 #stats_leeching.user_stat_pics {
     background-position: -24px 0;
-    background: url('icons/leechingIcon.png');
 }
 
 #stats_ratio {
@@ -1731,7 +1730,7 @@ tr.unreadpm {
     text-indent: 101%;
     display: block;
     float: left;
-    background: url('icons/ratioIcon.png');
+    background: url('images/icons.png');
     width: 12px;
     height: 12px;
     position: relative;
