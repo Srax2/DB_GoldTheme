@@ -1571,6 +1571,7 @@ tr.unreadpm {
     clear: left;
     height: 120px;
     background: #1a1a1a;
+    width: 540px;
 }
 
 #userinfo ul {
