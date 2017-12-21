@@ -816,11 +816,13 @@ td.colhead,
     padding-left: 15px;
     padding-bottom: 11px;
     padding-right: 15px;
+    transition: 0.2s ease;
 }
 
 .colheadmenuopret a:hover {
     color: #FFFFFF;
     border: 1px solid #FFFFFF;
+    transition: 0.2s ease;
 }
 
 /* Slut ny forum menu */
