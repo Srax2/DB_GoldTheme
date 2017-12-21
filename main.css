@@ -1719,7 +1719,7 @@ tr.unreadpm {
     text-indent: 101%;
     display: block;
     float: left;
-    background: url('icons.png');
+    background: url('icons/ratioIcon.png');
     width: 12px;
     height: 12px;
     position: relative;
