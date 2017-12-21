@@ -1855,6 +1855,12 @@ tr.unreadpm {
 
 #request_table a {
     color: #c4b998;
+    transition: color 0.2s ease;
+}
+
+#request_table a:hover {
+    color: #f3e6bf;
+    transition: color 0.2s ease;
 }
 
 #request_table td center {
