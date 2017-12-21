@@ -1783,14 +1783,14 @@ tr.unreadpm {
 #forums .forum_list .last_topic strong a,
 #forums .thinforum .colhead_dark strong a,
 #top10 table strong a {
-    color: #0087dc;
+    color: #c4b998;
 }
 
 #forums .forum_index h4 a:hover,
 #forums .forum_list .last_topic strong a:hover,
 #forums .thinforum .colhead_dark strong a:hover,
 #top10 table strong a:hover {
-    color: white;
+    color: #f3e6bf;
 }
 
 #forums span.forumicon {
