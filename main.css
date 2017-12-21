@@ -486,7 +486,7 @@ ul.thin li {
     padding: 0px;
     margin: 0px;
     display: inline;
-    color: #0087DC;
+    color: #c4b998;
 }
 
 .alertbar a:hover font {
@@ -745,7 +745,7 @@ td.colhead,
 }
 
 .colheadmenu a:hover {
-    /*color: #0087DC;*/
+    /*color: #c4b998;*/
 }
 
 .colheadmenuspace {
@@ -784,7 +784,7 @@ td.colhead,
 .pagination > .active > span:hover {
     z-index: 0;
     font-weight: bold;
-    color: #0087DC;
+    color: #c4b998;
     font-size: 10pt;
     cursor: hand;
     background-color: #2C2C2C;
@@ -795,7 +795,7 @@ td.colhead,
     font-weight: bold;
     font-size: 10pt;
     background-color: #262626;
-    color: #0087DC;
+    color: #c4b998;
     border-color: #151515;
 }
 
@@ -1458,7 +1458,7 @@ td.label {
 }
 
 .torrent_table tr a b {
-    color: #0087dc;
+    color: #c4b998;
 }
 
 /*.sticky, tr.sticky {
@@ -1854,7 +1854,7 @@ tr.unreadpm {
 }
 
 #request_table a {
-    color: #0087dc;
+    color: #c4b998;
 }
 
 #request_table td center {
@@ -1923,7 +1923,7 @@ td[style="background-color: black;border:none;"] {
 
 .labelop {
     color: #000;
-    background-color: #0087DC;
+    background-color: #c4b998;
 }
 
 
