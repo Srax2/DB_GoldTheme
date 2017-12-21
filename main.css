@@ -805,30 +805,22 @@ td.colhead,
 
 .colheadmenuopret {
     text-align: center;
-    padding-right: 30px;
-    padding-left: 30px;
-    background: #007AA9;
-    background: -moz-linear-gradient(top, #057BAA 0%, #006897 50%, #006392 51%, #005584 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #057baa), color-stop(50%, #006897), color-stop(51%, #006392), color-stop(100%, #005584));
-    /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top, #057baa 0%, #006897 50%, #006392 51%, #005584 100%);
-    /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top, #057baa 0%, #006897 50%, #006392 51%, #005584 100%);
-    /* Opera 11.10+ */
-    background: -ms-linear-gradient(top, #057baa 0%, #006897 50%, #006392 51%, #005584 100%);
-    /* IE10+ */
-    background: linear-gradient(to bottom, #057baa 0%, #006897 50%, #006392 51%, #005584 100%);
-    /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#057baa', endColorstr='#005584', GradientType=0);
-    /* IE6-9 */
+    padding: 0;
+    margin: 0;
 }
 
 .colheadmenuopret a {
-    color: #202020;
+    padding-top: 10px;
+    background: #222;
+    border: 1px solid #937341;
+    padding-left: 15px;
+    padding-bottom: 11px;
+    padding-right: 15px;
 }
 
 .colheadmenuopret a:hover {
     color: #FFFFFF;
+    border: 1px solid #FFFFFF;
 }
 
 /* Slut ny forum menu */
