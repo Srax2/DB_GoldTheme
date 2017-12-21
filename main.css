@@ -745,7 +745,7 @@ td.colhead,
 }
 
 .colheadmenu a:hover {
-    color: #0087DC;
+    /*color: #0087DC;*/
 }
 
 .colheadmenuspace {
@@ -753,17 +753,17 @@ td.colhead,
 }
 
 .colheadmenuactive {
-    font-size: 11pt;
-    background: #2C2C2C;
-    border: 1px solid #151515;
+    text-transform: uppercase;
+    text-decoration: underline;
+    box-shadow: 0 0 0px black;
 }
 
 .colheadmenuactive a {
-    color: #0087DC;
+    color: #e6d6bc;
 }
 
 .colheadmenuactive a:hover {
-    color: #FFF;
+    /*color: #FFF;*/
 }
 
 
