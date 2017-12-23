@@ -280,12 +280,6 @@ ul.thin li {
     padding: 1em 0;
 }
 
-#footer:after {
-    content: "Theme by Srax. \A Check it out here: https://github.com/Srax/DanishBitsCSS";
-    white-space: pre;
-
-}
-
 #logo {
     width: 800px;
     height: 135px;
